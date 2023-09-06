@@ -1,0 +1,39 @@
+40 Machine Learning Algorithms and models explained with Python
+
+1 DBSCAN Clustering
+2 Naive Bayes
+3 Gradient Boosting (Used in implementing the Instagram Algorithm)
+4 Logistic Regression
+5 Linear Regression
+6 Apriori Algorithm
+7 K Nearest Neighbor
+8 CatBoost
+9 SMOTE
+10 Hypothesis Testing (Commonly used in Outlier Detection)
+11 Tf-Idf Vectorization
+12 Cross-Validation
+13 4 Graph Algorithms (Connected Components, Shortest Path, Pagerank, Centrality Measures)
+14 Ridge and Lasso Regression
+15 StandardScaler
+16 SARIMA
+17 ARIMA
+18 XGBoost Algorithm
+19 Long Short Term Memory (LSTM)
+20 One Hot Encoding
+21 Bidirectional Encoder Representations from Transformers (BERT)
+22 Facebook Prophet
+23 NeuralProphet
+24 AdaBoost Algorithm
+25 Random Forest Algorithm
+26 H2O AutoML
+27 Polynomial Regression
+28 Gradient Descent Algorithm
+29 Grid Search Algorithm
+30 K-Means Algorithm
+31 Manifold Learning
+32 Principal Component Analysis
+33 Decision Trees
+34 Support Vector Machines
+35 Neural Networks
+36 FastAI
+37 LightGBM
